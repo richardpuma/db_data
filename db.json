@@ -1,67 +1,46 @@
 {
   "products": [
-    {
-      "id": 1,
-      "name": "celular samsung",
-      "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
-      "price": 15,
-      "stock": 10,
-      "active": 1,
-      "image": "http://lorempixel.com/350/230/technics"
-    },
-    {
-      "id": 2,
-      "name": "celular huawei",
-      "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
-      "price": 10,
-      "stock": 10,
-      "active": 1,
-      "image": "http://lorempixel.com/350/230/technics"
-    },
-    {
-      "id": 3,
-      "name": "tablet samsung",
-      "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
-      "price": 45,
-      "stock": 10,
-      "active": 1,
-      "image": "http://lorempixel.com/350/230/technics"
-    },
-    {
-      "id": 4,
-      "name": "laptop toshiba",
-      "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
-      "price": 42,
-      "stock": 10,
-      "active": 1,
-      "image": "http://lorempixel.com/350/230/technics"
-    },
-    {
-      "id": 5,
-      "name": "laptop HP",
-      "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
-      "price": 78,
-      "stock": 10,
-      "active": 1,
-      "image": "http://lorempixel.com/350/230/technics"
-    },
-    {
-      "id": 6,
-      "name": "laptop sony",
-      "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
-      "price": 98,
-      "stock": 10,
-      "active": 1,
-      "image": "http://lorempixel.com/350/230/technics"
-    },
-    {
-      "id": 7,
-      "name": "televisor samsung",
-      "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
-      "price": 44,
-      "stock": 10,
-      "active": 1,
-      "image": "http://lorempixel.com/350/230/technics"
-    }
+    { 
+    "productId": 1,
+    "description": "celular samsung",
+    "price":15,
+    "stock":10
+  },
+  { 
+    "productId": 2,
+    "description": "celular huawei",
+    "price":10,
+    "stock":10
+  },
+  { 
+    "productId": 3,
+    "description": "tablet samsung",
+    "price":45,
+    "stock":10
+  },
+  { 
+    "productId": 4,
+    "description": "laptop toshiba",
+    "price":42,
+    "stock":10
+  },
+  { 
+    "productId": 5,
+    "description": "laptop HP",
+    "price":78,
+    "stock":10
+  },
+  { 
+    "productId": 6,
+    "description": "laptop sony",
+    "price":98,
+    "stock":10
+  },
+  { 
+    "productId": 7,
+    "description": "televisor samsung",
+    "price":44,
+    "stock":10
+  }
   ]
 }

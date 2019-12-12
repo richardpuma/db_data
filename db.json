@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Efrain Bautista",
+      "name": "celular samsung",
       "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
       "price": 15,
       "stock": 10,
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "Efrain Bautista",
+      "name": "celular huawei",
       "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
       "price": 10,
       "stock": 10,
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "Efrain Bautista",
+      "name": "tablet samsung",
       "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
       "price": 45,
       "stock": 10,
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "name": "Efrain Bautista",
+      "name": "laptop toshiba",
       "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
       "price": 42,
       "stock": 10,
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "name": "Efrain Bautista",
+      "name": "laptop HP",
       "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
       "price": 78,
       "stock": 10,
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "name": "Efrain Bautista",
+      "name": "laptop sony",
       "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
       "price": 98,
       "stock": 10,
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "name": "Efrain Bautista",
+      "name": "televisor samsung",
       "descripcion": "Some quick example text to build on the card title and make up the bulk of the content.",
       "price": 44,
       "stock": 10,

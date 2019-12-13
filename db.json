@@ -1,7 +1,7 @@
 {
   "products": [
     { 
-    "productId": 1,
+    "productId": "1",
     "description": "celular samsung",
     "price":15,
     "stock":10
